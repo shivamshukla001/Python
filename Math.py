@@ -1,0 +1,15 @@
+import math
+
+print(math.pi)
+print(math.e)
+print(math.sqrt(25))
+print(math.factorial(5))
+print(math.sin(math.pi / 2))
+print(math.log(100, 10))
+print(math.gcd(48, 18))
+print(math.pow(2, 8))
+print(math.ceil(4.3))
+print(math.floor(4.7))
+print(math.radians(180))
+print(math.degrees(math.pi))
+print(math.copysign(3, -1))
